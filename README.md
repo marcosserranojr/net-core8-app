@@ -1,1 +1,1 @@
-# net-core8-app
+# Rudimentary .NET CORE 8 Sample Application 
